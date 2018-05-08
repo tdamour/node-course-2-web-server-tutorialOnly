@@ -1,0 +1,3 @@
+This is code practiced from the Udemy course " The Complete NodeJs Developer Course "  By Andrew Mead. All credit is to him. 
+This is from a video that showcases how to generate SSH Key and upload a file to Github with a SSH Key. 
+
