@@ -1,0 +1,14 @@
+STEPS TO GIT TO HEROKU
+-----------------------
+* Focus on Windows 10 OS
+-----------------------------
+
+After you change anything in the code
+********************************************
+(make sure to link Git To your github account)
+--------------------------------------------------
+
+in Git Bash - Enter:  git status
+---------------
+
+then Enter; git add.
